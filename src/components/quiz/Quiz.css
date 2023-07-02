@@ -1,0 +1,15 @@
+.quiz-container {
+    width: 385px;
+    height: 302px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .quiz-image {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  

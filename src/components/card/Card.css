@@ -1,0 +1,113 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.card {
+    width: 300px;
+    height: 150px;
+    margin-left: 15px;
+    margin-top: 30px;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+  }
+
+  .number{
+    margin-left: 10px;
+  }
+  
+  .title {
+
+    margin-left: 10px;
+  }
+
+  .side-num{
+    position: absolute;
+    top: 125px;
+    left:90px;
+  }
+  
+  .bottom-image {
+    width: 50px;
+    height: 26px;
+    position: absolute;
+    top:140px;
+    left: 25px;
+    
+  }
+  
+  .right-image {
+    width: 100px;
+    height: 59px;
+    position: absolute;
+    top: 90px;
+    left: 200px;
+  }
+  .para{
+    font-size: 10px;
+    position: absolute;
+    top:140px;
+    left:200px;
+    word-spacing: 6px;
+  }
+   */
+   .card-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .card {
+    width: 250px;
+    height: 120px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+    padding: 10px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 10px rgba(24, 120, 242, 0.25) /* Add right margin to create spacing between cards */
+  }
+  
+  .title {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  h2 {
+    font-size: 25px;
+    margin-bottom: 8px;
+  }
+
+  .progress{
+    width: 40px;
+    height:40px;
+  }
+  
+  .right-image {
+    width: 80px;
+    height: 70px;
+    object-fit: cover;
+    position: relative;
+    top: -115px;
+    left:170px;
+  }
+  
+  .paragraph{
+    font-size: 12px;
+    position: relative;
+    top:-122px;
+    left:170px;
+    word-spacing: 3px;
+    font-size: 10px;
+  }
+
+  .para{
+    position: relative;
+    top:-33px;
+    left: 50px;
+  }

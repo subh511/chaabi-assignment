@@ -1,0 +1,47 @@
+/* .layout {
+    display: flex;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 5px;
+  }
+  .card{
+    flex: 2;
+    padding: 10px;
+  } */
+
+  .layout {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 200px;
+    background-color: #f5f5f5;
+    /* Add additional styles for the sidebar */
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+    /* Add additional styles for the content area */
+  }
+  
+  .card-section {
+    margin-bottom: 20px;
+    /* Add additional styles for the card section */
+  }
+  
+  .chart-section {
+    display: flex;
+    flex-direction: row;
+    /* Add additional styles for the chart section */
+  }
+  .end-section{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    justify-content: space-between;
+  }
+  
+  

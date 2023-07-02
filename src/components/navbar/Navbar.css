@@ -1,0 +1,23 @@
+  .navbar {
+    background-image: url('../navbar/assets/Big\ Circles.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fff;
+    padding: 20px;
+    background-color: rgba(13, 98, 255, 1);
+    border-radius: 5px;
+  }
+  
+  .navbar h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #fff;
+  }
+  
+  .navbar p {
+    font-size: 16px;
+    margin: 0;
+    color: #fff;
+  }
+  
+  
